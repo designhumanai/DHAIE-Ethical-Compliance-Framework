@@ -79,7 +79,19 @@ Explore the interactive compliance dashboard: [https://designhumanai.com/ethics/
 
 ---
 
-## 📄 License | Лицензия
+## 📄 Лицензия
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
-Данная работа распространяется по лицензии [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/)
+Эта работа распространяется по лицензии [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+[![CC BY-NC-SA 4.0](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+**Вы можете:**
+- ✅ Делиться и адаптировать материал
+
+**При условии:**
+- 📝 Указание авторства: **Design Human AI Institute (DHAIE)**
+- 🚫 Некоммерческое использование
+- 🔄 Производные работы под той же лицензией
+
+**Коммерческое использование:** `licensing@designhumanai.com`
+

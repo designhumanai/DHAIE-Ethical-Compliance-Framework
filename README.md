@@ -62,19 +62,20 @@ Explore the interactive compliance dashboard: [https://designhumanai.com/ethics/
 
 ## 🟢 Levels | Уровни соответствия
 
-| Level    | ECS Range | Color                                                           | Description                                                                 |
-| -------- | --------- | --------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| Bronze   | 33% - 52% | ![#CD7F32](https://via.placeholder.com/15/CD7F32/000000?text=+) | Basic compliance, initial implementation of mandatory procedures.           |
-| Silver   | 57% - 76% | ![#C0C0C0](https://via.placeholder.com/15/C0C0C0/000000?text=+) | Systematic management of ethics, proactive risk handling, public reporting. |
-| Gold     | 81% - 95% | ![#FFD700](https://via.placeholder.com/15/FFD700/000000?text=+) | Ethical culture, industry leadership, achievement of target metrics.        |
-| Platinum | 100%      | ![#E5E4E2](https://via.placeholder.com/15/E5E4E2/000000?text=+) | Transformation of the ecosystem, exemplary transparency, flawless metrics.  |
+| Level    | ECS Range | Badge | Description |
+|----------|-----------|-------|-------------|
+| Bronze   | 33% - 52% | ![Bronze](https://img.shields.io/badge/Bronze-33%25--52%25-CD7F32?style=for-the-badge) | Basic compliance, initial implementation of mandatory procedures. |
+| Silver   | 57% - 76% | ![Silver](https://img.shields.io/badge/Silver-57%25--76%25-C0C0C0?style=for-the-badge) | Systematic management of ethics, proactive risk handling, public reporting. |
+| Gold     | 81% - 95% | ![Gold](https://img.shields.io/badge/Gold-81%25--95%25-FFD700?style=for-the-badge) | Ethical culture, industry leadership, achievement of target metrics. |
+| Platinum | 100%      | ![Platinum](https://img.shields.io/badge/Platinum-100%25-E5E4E2?style=for-the-badge) | Transformation of the ecosystem, exemplary transparency, flawless metrics. |
 
-| Уровень | Диапазон ECS | Цвет                                                            | Описание                                                                         |
-| ------- | ------------ | --------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| Бронза  | 33% - 52%    | ![#CD7F32](https://via.placeholder.com/15/CD7F32/000000?text=+) | Базовое соблюдение, внедрение обязательных процедур.                             |
-| Серебро | 57% - 76%    | ![#C0C0C0](https://via.placeholder.com/15/C0C0C0/000000?text=+) | Системное управление этикой, проактивная работа с рисками, публичная отчетность. |
-| Золото  | 81% - 95%    | ![#FFD700](https://via.placeholder.com/15/FFD700/000000?text=+) | Этическая культура, лидерство в отрасли, достижение целевых метрик.              |
-| Платина | 100%         | ![#E5E4E2](https://via.placeholder.com/15/E5E4E2/000000?text=+) | Трансформация экосистемы, эталонная прозрачность, безупречные метрики.           |
+| Уровень | Диапазон ECS | Бейдж | Описание |
+|---------|--------------|-------|----------|
+| Бронза  | 33% - 52%    | ![Бронза](https://img.shields.io/badge/Бронза-33%25--52%25-CD7F32?style=for-the-badge) | Базовое соблюдение, внедрение обязательных процедур. |
+| Серебро | 57% - 76%    | ![Серебро](https://img.shields.io/badge/Серебро-57%25--76%25-C0C0C0?style=for-the-badge) | Системное управление этикой, проактивная работа с рисками, публичная отчетность. |
+| Золото  | 81% - 95%    | ![Золото](https://img.shields.io/badge/Золото-81%25--95%25-FFD700?style=for-the-badge) | Этическая культура, лидерство в отрасли, достижение целевых метрик. |
+| Платина | 100%         | ![Платина](https://img.shields.io/badge/Платина-100%25-E5E4E2?style=for-the-badge) | Трансформация экосистемы, эталонная прозрачность, безупречные метрики. |
+
 
 ---
 

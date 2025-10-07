@@ -148,7 +148,7 @@ DHAIE-Ethical-Compliance-Framework/
 
 ### Как оценить ECS вашей организации:
 
-1. **Изучите 8 операциональных принципов** в [Ethical Framework Protocol](https://github.com/designhumanai/DHAIE-Ethical-Framework-Protocol)
+1. **Изучите 8 операциональных принципов** в [Ethical Framework Protocol](https://github.com/designhumanai/DHAIE-Ethical-Compliance-Framework/tree/main/DHAIE-Ethical-Framework-Protocol.md).
 2. **Оцените каждый принцип** по шкале 0-3:
    - **0 баллов** — принцип не реализован
    - **1 балл** — базовая реализация (минимальные требования)
@@ -247,7 +247,7 @@ DHAIE-Ethical-Compliance-Framework/
 ## 📚 Дополнительные ресурсы
 
 - [Этические принципы DHAIE](https://github.com/designhumanai/design-human-ai/blob/main/docs/ethics.md) — философия и детали принципов
-- [Ethical Framework Protocol](https://github.com/designhumanai/DHAIE-Ethical-Framework-Protocol) — полная система проверки
+- [Ethical Framework Protocol](https://github.com/designhumanai/DHAIE-Ethical-Compliance-Framework/tree/main/DHAIE-Ethical-Framework-Protocol.md). — полная система проверки
 - [Полный меморандум v2.8](https://designhumanai.com/ethics/dhaie_ethics.pdf) — 131 страница детальной документации
 - [Курс "Этика ИИ"](https://designhumanai.com/education/ai-ethics-course) — 40 часов обучения
 - [Глоссарий терминов](https://designhumanai.com/ethics/glossary) — единый язык этики ИИ

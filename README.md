@@ -18,7 +18,7 @@ license: GPL v3 (код) + CC BY-NC-SA 4.0 (документация)
 *(Практический инструмент для измерения и роста этического соответствия)*
 
 > **Назначение | Purpose:**  
-Этот репозиторий содержит официальную градуированную систему соответствия для этического когнитивного моделирования, разработанную Институтом Дизайна Человеческого ИИ (DHAIE), основанную на **8 операциональных принципах DHAIE** из [Ethical Framework Protocol](https://github.com/designhumanai/DHAIE-Ethical-Compliance-Framework/tree/main/DHAIE-Ethical-Framework-Protocol.md).
+Этот репозиторий содержит официальную градуированную систему соответствия для этического когнитивного моделирования, разработанную в рамках проекта Design Human AI Engineering & Enhancement (DHAIE), основанную на **8 операциональных принципах DHAIE** из [Ethical Framework Protocol](https://github.com/designhumanai/DHAIE-Ethical-Compliance-Framework/tree/main/DHAIE-Ethical-Framework-Protocol.md).
 
 ---
 

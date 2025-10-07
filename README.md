@@ -27,7 +27,7 @@ license: GPL v3 (код) + CC BY-NC-SA 4.0 (документация)
 | Документ | Назначение | Для кого |
 |----------|-----------|----------|
 | [**Этические принципы DHAIE**](https://github.com/designhumanai/design-human-ai/blob/main/docs/ethics.md) | Философия и 7 принципов (выжимка из 131 стр) | Все роли: знакомство с подходом |
-| [**Ethical Framework Protocol**](https://github.com/designhumanai/DHAIE-Ethical-Framework-Protocol) | Полная система принципов и проверки | Разработчики, аудиторы, архитекторы |
+| [**Ethical Framework Protocol**](https://github.com/designhumanai/DHAIE-Ethical-Compliance-Framework/tree/main/DHAIE-Ethical-Framework-Protocol.md) | Полная система принципов и проверки | Разработчики, аудиторы, архитекторы |
 | [**Полный меморандум v2.8**](https://designhumanai.com/ethics/dhaie_ethics.pdf) | Детальные механизмы (131 стр) | Глубокое погружение |
 
 **Рекомендуемый путь:**

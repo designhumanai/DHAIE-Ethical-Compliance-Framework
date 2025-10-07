@@ -2,7 +2,7 @@
 <!-- SPDX-License-Identifier: CC-BY-NC-SA-4.0 -->
 
 ---
-title: DHAIE Ethical Framework & Review Protocol  
+title: DHAIE ETHICAL FRAMEWORK & REVIEW PROTOCOL  
 author: Viktor Savitskiy / DHAIE Project  
 version: 2.0
 status: Public  
@@ -16,7 +16,7 @@ revision_history: |
 license: GPL v3 (код) + CC BY-NC-SA 4.0 (документация) 
 ---
 
-# DHAIE Ethical Framework & Review Protocol  
+# DHAIE ETHICAL FRAMEWORK & REVIEW PROTOCOL  
 *(Единая система этических принципов и проверки DHAIE)*
 
 > **Назначение:**  

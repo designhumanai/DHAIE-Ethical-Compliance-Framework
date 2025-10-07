@@ -33,7 +33,7 @@ license: GPL v3 (код) + CC BY-NC-SA 4.0 (документация)
 **Рекомендуемый путь:**
 1. Начните с [этических принципов](https://github.com/designhumanai/design-human-ai/blob/main/docs/ethics.md) (15 мин)
 2. Используйте этот Framework для измерения прогресса
-3. Изучите [Ethical Framework Protocol](https://github.com/designhumanai/DHAIE-Ethical-Framework-Protocol) для деталей реализации
+3. Изучите [Ethical Framework Protocol](https://github.com/designhumanai/DHAIE-Ethical-Compliance-Framework/tree/main/DHAIE-Ethical-Framework-Protocol.md) для деталей реализации
 4. При необходимости углубляйтесь в [полный меморандум](https://designhumanai.com/ethics/dhaie_ethics.pdf) (131 стр)
 
 ---

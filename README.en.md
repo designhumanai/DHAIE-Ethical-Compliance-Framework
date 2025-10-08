@@ -32,13 +32,13 @@ This repository contains the official graduated compliance system for ethical co
 |----------|-----------|----------|
 | [**DHAIE Ethical Principles**](https://github.com/designhumanai/design-human-ai/blob/main/docs/ethics.en.md) | Philosophy and 7 principles (extract from 131 pages) | All roles: introduction to the approach |
 | [**Ethical Framework Protocol**](https://github.com/designhumanai/DHAIE-Ethical-Compliance-Framework/tree/main/DHAIE-Ethical-Framework-Protocol.en.md) | Complete system of principles and verification | Developers, auditors, architects |
-| [**Full Memorandum v2.8**](https://designhumanai.com/ethics/dhaie_ethics.pdf) | Detailed mechanisms (131 pages) | Deep dive |
+| [**Full Memorandum v2.8**](https://designhumanai.com/ethics/dhaie_ethics.en.pdf) | Detailed mechanisms (131 pages) | Deep dive |
 
 **Recommended Path:**
 1. Start with [ethical principles](https://github.com/designhumanai/design-human-ai/blob/main/docs/ethics.en.md) (15 min)
 2. Use this Framework to measure progress
 3. Study the [Ethical Framework Protocol](https://github.com/designhumanai/DHAIE-Ethical-Compliance-Framework/tree/main/DHAIE-Ethical-Framework-Protocol.en.md) for implementation details
-4. When needed, dive into the [full memorandum](https://designhumanai.com/ethics/dhaie_ethics.pdf) (131 pages)
+4. When needed, dive into the [full memorandum](https://designhumanai.com/ethics/dhaie_ethics.en.pdf) (131 pages)
 
 ---
 

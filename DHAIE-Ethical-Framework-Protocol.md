@@ -16,6 +16,10 @@ revision_history: |
 license: GPL v3 (код) + CC BY-NC-SA 4.0 (документация) 
 ---
 
+**🌐 Language:** [English](DHAIE-Ethical-Framework-Protocol.en.md) | Русский
+
+---
+
 # DHAIE ETHICAL FRAMEWORK & REVIEW PROTOCOL  
 *(Единая система этических принципов и проверки DHAIE)*
 

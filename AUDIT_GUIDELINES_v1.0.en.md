@@ -136,7 +136,7 @@ ECS = (Σ Principle Scores / 24) × 100%
 
 ### Step 1: Self-Assessment
 
-1. Review the [8 operational principles in DHAIE-Ethical-Framework-Protocol.md](https://github.com/designhumanai/DHAIE-Ethical-Compliance-Framework/blob/main/docs/DHAIE-Ethical-Framework-Protocol.md)
+1. Review the [8 operational principles in DHAIE-Ethical-Framework-Protocol.md](https://github.com/designhumanai/DHAIE-Ethical-Compliance-Framework/blob/main/docs/DHAIE-Ethical-Framework-Protocol.en.md)
 2. Use the [ECS calculator](https://designhumanai.com/ethics/compliance-dashboard) for initial scoring
 3. Identify gaps and prioritize improvements
 
@@ -240,9 +240,9 @@ If an organization disagrees with audit results:
 
 ## 📚 Additional Resources
 
-- [DHAIE Ethical Principles](https://github.com/designhumanai/design-human-ai/blob/main/docs/ethics.md) — Full philosophy and 7 foundational principles
-- [Ethical Review Protocol](https://github.com/designhumanai/DHAIE-Ethical-Compliance-Framework/blob/main/docs/DHAIE-Ethical-Framework-Protocol.md) — 8 operational principles and methodology
-- [Public Matrix](PUBLIC_MATRIX_AND_ECS.md) — Scoring reference
+- [DHAIE Ethical Principles](https://github.com/designhumanai/design-human-ai/blob/main/docs/ethics.en.md) — Full philosophy and 7 foundational principles
+- [Ethical Review Protocol](https://github.com/designhumanai/DHAIE-Ethical-Compliance-Framework/blob/main/docs/DHAIE-Ethical-Framework-Protocol.en.md) — 8 operational principles and methodology
+- [Public Matrix](PUBLIC_MATRIX_AND_ECS.en.md) — Scoring reference
 - [Interactive Dashboard](https://designhumanai.com/ethics/compliance-dashboard) — Self-assessment tool
 
 **For full audit guidelines (accredited auditors only):**
@@ -354,7 +354,7 @@ All rights reserved under applicable international law.
 
 **Version | Версия:** 1.0 (Public)  
 **Last updated | Дата обновления:** October 5, 2025 | 5 октября 2025  
-**Based on | Основано на:** [DHAIE Ethics v2.8](https://github.com/designhumanai/design-human-ai/blob/main/docs/ethics.md) + [DHAIE Ethical Framework & Review Protocol v2.0](https://github.com/designhumanai/DHAIE-Ethical-Compliance-Framework/blob/main/docs/DHAIE-Ethical-Framework-Protocol.md)  
+**Based on | Основано на:** [DHAIE Ethics v2.8](https://github.com/designhumanai/design-human-ai/blob/main/docs/ethics.en.md) + [DHAIE Ethical Framework & Review Protocol v2.0](https://github.com/designhumanai/DHAIE-Ethical-Compliance-Framework/blob/main/docs/DHAIE-Ethical-Framework-Protocol.en.md)  
 **Status | Статус:** Public version | Публичная версия  
 
 **Full confidential version:** Available to accredited auditors only. Contact `auditors@designhumanai.com`

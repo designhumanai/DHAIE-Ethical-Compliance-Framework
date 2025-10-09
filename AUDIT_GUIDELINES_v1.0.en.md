@@ -241,10 +241,10 @@ If an organization disagrees with audit results:
 ## 📚 Additional Resources
 
 - [DHAIE Ethical Principles](https://github.com/designhumanai/design-human-ai/blob/main/docs/ethics.en.md) — Full philosophy and 7 foundational principles
-- [Ethical Review Protocol](https://github.com/designhumanai/DHAIE-Ethical-Compliance-Framework/blob/main/docs/DHAIE-Ethical-Framework-Protocol.en.md) — 8 operational principles and methodology
+
 - [Public Matrix](PUBLIC_MATRIX_AND_ECS.en.md) — Scoring reference
 - [Interactive Dashboard](https://designhumanai.com/ethics/compliance-dashboard) — Self-assessment tool
-
+- [Ethical Review Protocol](https://github.com/designhumanai/DHAIE-Ethical-Compliance-Framework/blob/main/DHAIE-Ethical-Framework-Protocol.en.md) — 8 operational principles and methodology
 **For full audit guidelines (accredited auditors only):**
 - Email: `auditors@designhumanai.com`
 - Subject: "Request for Full Audit Guidelines v1.0"

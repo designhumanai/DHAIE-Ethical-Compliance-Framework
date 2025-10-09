@@ -136,7 +136,7 @@ ECS = (Σ Principle Scores / 24) × 100%
 
 ### Step 1: Self-Assessment
 
-1. Review the [8 operational principles in DHAIE-Ethical-Framework-Protocol.md](https://github.com/designhumanai/DHAIE-Ethical-Compliance-Framework/blob/main/docs/DHAIE-Ethical-Framework-Protocol.en.md)
+1. Review the [8 operational principles in DHAIE-Ethical-Framework-Protocol.en.md](https://github.com/designhumanai/DHAIE-Ethical-Compliance-Framework/blob/main/DHAIE-Ethical-Framework-Protocol.en.md)
 2. Use the [ECS calculator](https://designhumanai.com/ethics/compliance-dashboard) for initial scoring
 3. Identify gaps and prioritize improvements
 
